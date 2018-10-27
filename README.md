@@ -75,14 +75,14 @@
 ## 安装
 
 ```
-go get github.com/qichengzx/qcloudsms_go
+go get github.com/teamlint/qcloud-sms
 ```
 
 ## 用法
 
 ```Go
 
-import "github.com/qichengzx/qcloudsms_go"
+import "github.com/teamlint/qcloud-sms"
 
 opt := qcloudsms.NewOptions("yourappid","yourappkey","yoursign")
 
